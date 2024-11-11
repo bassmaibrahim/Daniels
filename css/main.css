@@ -664,8 +664,13 @@ footer p{
 
 @media (max-width: 767px) {
   header {
-    background-attachment: scroll; 
+    background-attachment:fixed; 
     background-size: cover;
     background-position: center Top; 
   }
 }
+
+@media (max-width: 767px) {
+  .team-cards {
+    margin-bottom: 20px; 
+  }
