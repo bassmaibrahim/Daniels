@@ -662,7 +662,7 @@ footer p{
 
 
 
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   header {
     background-attachment:scroll; 
     background-size: cover;
@@ -670,7 +670,7 @@ footer p{
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   .team-cards {
     margin-bottom: 20px; 
   }
