@@ -659,3 +659,11 @@ footer p{
   font-size: 13px;
   color: var(--primary-color);
 }
+
+
+
+@media (max-width: 767px) {
+  header {
+    background-position: center top; 
+  }
+}
